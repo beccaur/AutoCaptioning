@@ -4,6 +4,6 @@ body{
 }
 th, td {
     padding: 8px;
-    text-align: left;
+    text-align: centered;
     border-bottom: 1px solid #ddd;
 }
