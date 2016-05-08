@@ -4,7 +4,7 @@
     <link rel="stylesheet" type="text/css" href="{% static 'css/testsDetails.css' %}" />
     <head>
         <div class="exp">
-            <br> This are the results of our Image Classification (fig. 1.1)
+            <br> This are the results of our Image Classification
             <br> and image captioning with the MS Coco dataset at 27.7% accuracy
         </div>
     </head>
@@ -14,7 +14,7 @@
             <table>
                 {% for imag in images %}
                 <tr tabindex="1" class = "imgWrap">
-                    <td class="image"><img src="https://s3-us-west-2.amazonaws.com/auto-ap-media/media{{imag.file_name}}" alt="{{imag.file_name}}" /></td>
+                    <td class="image"><img src="https://s3-us-west-2.amazonaws.com/auto-ap-media/media/{{imag.file_name}}" alt="{{imag.file_name}}" /></td>
 
                     <td class="imgCap">
                         <div class = "imgDescription">
