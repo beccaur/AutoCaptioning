@@ -7,6 +7,9 @@ th, td {
     text-align: centered;
     border-bottom: 1px solid #ddd;
 }
+b{
+    color: black;
+}
 
 a: active {
     color: red;
