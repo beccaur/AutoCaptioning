@@ -7,7 +7,9 @@ th, td {
     text-align: centered;
     border-bottom: 1px solid #ddd;
 }
-b{
+DocLink{
+    text-align: left;
+    text-decoration: none;
     color: black;
 }
 
