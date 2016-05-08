@@ -3,7 +3,7 @@ body{
     color:gray;
 }
 th, td {
-    padding: 8px;
+    padding: 20px;
     text-align: centered;
     border-bottom: 1px solid #ddd;
 }
