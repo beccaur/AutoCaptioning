@@ -10,7 +10,7 @@ th, td {
 .DocLink a{
     text-align: left;
     text-decoration: none;
-    color: black;
+    color: gray;
 }
 
 .DocLink a:hover{
