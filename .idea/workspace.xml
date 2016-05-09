@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d729da-d023-40b8-8837-8b6f5fc66117" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autoCap/static/css/methodDetails.css" afterPath="$PROJECT_DIR$/autoCap/static/css/methodDetails.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autoCap/templates/report.html" afterPath="$PROJECT_DIR$/autoCap/templates/report.html" />
     </list>
     <ignored path="autoCap.iws" />
@@ -23,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file leaf-file-name="report.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="report.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/autoCap/templates/report.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5169082">
-              <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+            <state vertical-scroll-proportion="-18.470589">
+              <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="methodDetails.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="methodDetails.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/autoCap/static/css/methodDetails.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.26102087">
+              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -71,8 +72,8 @@
         <option value="$PROJECT_DIR$/autoCap/static/css/menuDetails.css" />
         <option value="$PROJECT_DIR$/autoCap/static/css/testsDetails.css" />
         <option value="$PROJECT_DIR$/autoCap/templates/menu.html" />
-        <option value="$PROJECT_DIR$/autoCap/static/css/methodDetails.css" />
         <option value="$PROJECT_DIR$/autoCap/templates/report.html" />
+        <option value="$PROJECT_DIR$/autoCap/static/css/methodDetails.css" />
       </list>
     </option>
   </component>
@@ -764,18 +765,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoCap/static/css/methodDetails.css">
+    <entry file="file://$PROJECT_DIR$/autoCap/templates/report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state vertical-scroll-proportion="-18.470589">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="26" selection-end-line="42" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoCap/templates/report.html">
+    <entry file="file://$PROJECT_DIR$/autoCap/static/css/methodDetails.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5169082">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="7" selection-end-line="34" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.26102087">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
           <folding />
         </state>
       </provider>

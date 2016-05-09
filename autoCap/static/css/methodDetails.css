@@ -7,7 +7,7 @@ th, td {
     text-align: centered;
     border-bottom: 1px solid #ddd;
 }
-.DocLink a{
+.DocLink {
     font:14px/1.4 arial;
     text-decoration: none;
     color: gray;
