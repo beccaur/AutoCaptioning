@@ -1,43 +1,36 @@
-# Heroku Django Starter Template
+#Enhancing Yelp Reviews through Data Mining
 
-An utterly fantastic project starter template for Django 1.9.
+Our website is meant to provide access to our Documentation and Testing Results.
+It is constructed with the Django framework, and deployed using Heroku.
 
-## Features
+**Libraries included for the website:**
 
-- Production-ready configuration for Static Files, Database Settings, Gunicorn, etc.
-- Enhancements to Django's static file serving functionality via WhiteNoise
+Also available in the requirements.txt file
 
-## How to Use
+*dj-database-url==0.4.0
+*Django==1.9.2
+*gunicorn==19.4.5
+*psycopg2==2.6.1
+*whitenoise==2.0.6
 
-To use this project, follow these steps:
+## Home
 
-1. Create your working environment.
-2. Install Django (`$ pip install django`)
-3. Create a new project using this template
+Our homepage displays information about the Yelp Dataset chalenge, and our motivation for the project.
 
-## Creating Your Project
+## Reports
 
-Using this template to create a new Django app is easy::
+In this section our Abstract is displayed. Links to the project's documentation can be found at the bottom of the page
 
-    $ django-admin.py startproject --template=https://github.com/heroku/heroku-django-template/archive/master.zip --name=Procfile helloworld
+##Results
 
-You can replace ``helloworld`` with your desired project name.
+This page displays the pictures from the Yelp dataset.
+Clicking on one will enhance it and display further information.
+It includes:
+* **Original Caption:** The caption that was originally attached to the picture.
+* **Predicted Captions:** The captions that resulted in our testing.
+* **Original Label:** The label that had originally been given by Yelp to the picture. Labels for restuarants are defined as : inside, outside, food, drink and menu.
+* **Predicted Label:** The label that we attached to the photo through our testing.
 
-## Deployment to Heroku
+##Website
 
-    $ git init
-    $ git add -A
-    $ git commit -m "Initial commit"
-
-    $ heroku create
-    $ git push heroku master
-
-    $ heroku run python manage.py migrate
-
-See also, a [ready-made application](https://github.com/heroku/python-getting-started), ready to deploy.
-
-## Further Reading
-
-- [Gunicorn](https://warehouse.python.org/project/gunicorn/)
-- [WhiteNoise](https://warehouse.python.org/project/whitenoise/)
-- [dj-database-url](https://warehouse.python.org/project/dj-database-url/)
+Site can be found at https://auto-aptioning.herokuapp.com
