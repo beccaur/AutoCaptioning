@@ -26,7 +26,7 @@
                             <li>{{imag.caption}}</li>
                             <br>Generated Caption:
                             <li>{{imag.predicted_caption_1}}</li>
-                            {% if image.predicted_caption_1 != 'Menu' %}
+                            {% if image.predicted_caption_1 = 'Menu' %}
                                 <li>{{imag.predicted_caption_2}}</li>
                                 <li>{{imag.predicted_caption_3}}</li>
                                 <li>{{imag.predicted_caption_4}}</li>

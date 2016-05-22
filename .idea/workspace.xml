@@ -46,8 +46,8 @@
       <file leaf-file-name="tests.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/autoCap/templates/tests.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45595238">
-              <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+            <state vertical-scroll-proportion="0.30714285">
+              <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
               <folding />
             </state>
           </provider>
@@ -770,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/autoCap/templates/tests.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45595238">
-          <caret line="33" column="36" selection-start-line="33" selection-start-column="36" selection-end-line="33" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.30714285">
+          <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
           <folding />
         </state>
       </provider>
