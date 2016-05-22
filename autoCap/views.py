@@ -26,3 +26,17 @@ def tests(request):
 
     return render(request, "tests.html", {'images': images})
 
+def nonLabel(request):
+    images = Images.objects.all().filter(split='test', label='none')
+    paginator = Paginator(images, 40) # Show 40 images per page
+    page = request.GET.get('page')
+    try:
+        images = paginator.page(page)
+    except PageNotAnInteger:
+        # If page is not an integer, deliver first page.
+        images = paginator.page(1)
+    except EmptyPage:
+        # If page is out of range (e.g. 9999), deliver last page of results.
+        images = paginator.page(paginator.num_pages)
+
+    return render(request, "tests.html", {'images': images})
