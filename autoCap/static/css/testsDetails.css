@@ -11,8 +11,14 @@
     background-color: red;
 }
 
-.step-links{
+.step-links a{
     font:60px/1.4 arial;
+    color: white;
+    text-decoration: none;
+}
+
+.step-links{
+    font:50px/1.4 arial;
     color: white;
     text-decoration: none;
 }
