@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4d729da-d023-40b8-8837-8b6f5fc66117" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autoCap/templates/tests.html" afterPath="$PROJECT_DIR$/autoCap/templates/tests.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autoCap/static/css/testsDetails.css" afterPath="$PROJECT_DIR$/autoCap/static/css/testsDetails.css" />
     </list>
     <ignored path="autoCap.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,11 +43,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tests.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tests.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/autoCap/templates/tests.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30714285">
+            <state vertical-scroll-proportion="2.5">
               <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="testsDetails.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/autoCap/static/css/testsDetails.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.37185356">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -95,7 +105,6 @@
         <option value="$PROJECT_DIR$/autoCap/settings.py" />
         <option value="$PROJECT_DIR$/autoCap/urls.py" />
         <option value="$PROJECT_DIR$/autoCap/models.py" />
-        <option value="$PROJECT_DIR$/autoCap/static/css/testsDetails.css" />
         <option value="$PROJECT_DIR$/autoCap/templates/menu.html" />
         <option value="$PROJECT_DIR$/autoCap/static/css/menuDetails.css" />
         <option value="$PROJECT_DIR$/autoCap/templates/report.html" />
@@ -105,6 +114,7 @@
         <option value="$PROJECT_DIR$/autoCap/templates/index.html" />
         <option value="$PROJECT_DIR$/autoCap/views.py" />
         <option value="$PROJECT_DIR$/autoCap/templates/tests.html" />
+        <option value="$PROJECT_DIR$/autoCap/static/css/testsDetails.css" />
       </list>
     </option>
   </component>
@@ -670,13 +680,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoCap/static/css/testsDetails.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.76914155">
-          <caret line="80" column="12" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/autoCap/templates/menu.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -752,14 +755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/autoCap/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.25">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/autoCap/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-13.125">
@@ -768,10 +763,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/autoCap/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.25">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/autoCap/templates/tests.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30714285">
+        <state vertical-scroll-proportion="2.5">
           <caret line="28" column="60" selection-start-line="28" selection-start-column="60" selection-end-line="28" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autoCap/static/css/testsDetails.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.37185356">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
           <folding />
         </state>
       </provider>
