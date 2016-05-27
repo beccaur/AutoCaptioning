@@ -39,4 +39,4 @@ def nonLabel(request):
         # If page is out of range (e.g. 9999), deliver last page of results.
         images = paginator.page(paginator.num_pages)
 
-    return render(request, "tests.html", {'images': images})
+    return render(request, "nonelabel.html", {'images': images})
