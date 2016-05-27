@@ -26,7 +26,7 @@ def tests(request):
 
     return render(request, "tests.html", {'images': images})
 
-def nonLabel(request):
+def nonelabel(request):
     images = Images.objects.all().filter(split='test', label='none')
     paginator = Paginator(images, 40) # Show 40 images per page
     page = request.GET.get('page')

@@ -3,7 +3,7 @@
 from django.conf.urls import include, url
 from django.contrib import admin
 
-from views import index, tests, report
+from views import index, tests, report, nonelabel
 
 
 urlpatterns = [
@@ -11,4 +11,5 @@ urlpatterns = [
     url(r'^$', index),
     url(r'^tests.html', tests),
     url(r'^report.html', report),
+    url(r'^nonelabel.html', nonelabel),
 ]
